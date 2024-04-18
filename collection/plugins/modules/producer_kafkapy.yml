@@ -8,7 +8,7 @@ __metaclass__ = type
 
 DOCUMENTATION = r'''
 ---
-module: kafka_producer
+module: producer_kafkapy
 
 short_description: Module to produce topics and information to kafka
 
