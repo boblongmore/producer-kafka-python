@@ -1,0 +1,15 @@
+namespace: bob_private_collection
+name: producer_kafka_python
+version: 1.0.0
+readme: "README.md"
+authors:
+    - " Bob Longmore (bob.longmore@wwt.com) "
+dependencies:
+    - kafka-python
+    - aiokafka
+license:
+    - "MIT"
+tags:
+    - private
+    - collection
+repository: "https://www.github.com/boblongmore/producer_kafka_python"
