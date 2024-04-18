@@ -1,4 +1,4 @@
-namespace: "producer-kafka-python"
+namespace: "bob_private_collection"
 name: "producer-kafka-python"
 version: "1.0.0"
 readme: "README.md"
