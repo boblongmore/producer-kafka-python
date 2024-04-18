@@ -1,5 +1,5 @@
 namespace: "bob_private_collection"
-name: "producer-kafka-python"
+name: "producer_kafka_python"
 version: "1.0.0"
 readme: "README.md"
 authors:
@@ -12,4 +12,4 @@ license:
 tags:
     - private
     - collection
-repository: "https://www.github.com/boblongmore/producer-kafka-python"
+repository: "https://www.github.com/boblongmore/producer_kafka_python"
